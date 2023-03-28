@@ -10,7 +10,7 @@ import React, { useState } from "react";
 // Gönderiler (çoğul!) ve AramaÇubuğu bileşenlerini import edin, çünkü bunlar App bileşeni içinde kullanılacak
 // sahteVeri'yi import edin
 import sahteVeri from "./sahte-veri";
-import Gönderiler from "./bileşenler/Gönderiler/Gönderiler";
+import Gönderiler from "./bileşenler/Gönderiler/Gönderiler";
 import AramaÇubuğu from "./bileşenler/AramaÇubuğu/AramaÇubuğu";
 
 import "./App.css";
